@@ -21,7 +21,7 @@ The **3-in-1 Drone** is designed not only for fun but also as a **learning platf
 | Li-Po Battery | 3.7V | Power supply |
 
 ## 3️⃣ Possible Advancements
-Each advancement is detailed in a **separate folder**, containing:
+Each advancement is detailed in the [Advancements Folder](./advancements/), containing:
 - **Introduction & Use Case**
 - **Required Components**
 - **Connection Diagrams & Schematics**
