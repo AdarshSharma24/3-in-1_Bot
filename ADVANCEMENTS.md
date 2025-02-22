@@ -32,6 +32,7 @@ Each advancement is detailed in a **separate folder**, containing:
 |-------------|-------------|---------|
 | Bluetooth Control | Replace NRF24 with HC-05 for Bluetooth connectivity | `/advancements/Bluetooth/` |
 | Wi-Fi Upgrade | Use ESP32 for wireless control | `/advancements/WiFi/` |
+| PPM Receiver | Use standard 2.4Ghz PPM remotes like Flyski or RadioLink | `/advancements/PPM/` |
 | Camera Module | Add FPV streaming capabilities | `/advancements/Camera/` |
 | Automated Mode Switching | Software-based transitions between modes | `/advancements/ModeSwitch/` |
 | Gesture Control | Implement MPU6050-based gesture recognition | `/advancements/Gesture/` |
