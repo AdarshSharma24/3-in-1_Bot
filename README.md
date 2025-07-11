@@ -15,7 +15,6 @@ The 3-in-1 Drone seamlessly transitions between **three exciting modes**, allowi
 
 
 ### Features
-- **Eco-Friendly & Educational** – The **biodegradable PLA body** introduces children to sustainable materials and teaches them about eco-conscious engineering.
 - **Obstacle Avoidance** – A built-in **front-facing sensor (VL53L0X)** helps prevent head-on collisions.
 - **Extra Accessories** – Includes **an additional set of propellers and guards** to ensure long-lasting fun.
 - **Safe for children** – Designed with **propeller guards** and **lightweight PLA material** to minimize any risk during play.
