@@ -10,13 +10,13 @@ The **3-in-1 Drone** is designed not only for fun but also as a **learning platf
 - **Motor Control System:** The **SI2302 MOSFET-based** motor drivers regulate speed and thrust effectively.
 
 ## 2️⃣ 3D MODEL & CAD DESIGN
-*([View 3D model](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/3D_model.jpg)*
+*([View 3D model](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/3D_model.png))*
 - **Mass Distribution:** The mass is distributed in such a way that the center of mass lies at the center to maintain mass symmetry, even though the structure is not geometrically symmetric along all axes.
 - **Mode Change System:** The toy is designed in such a way that it can change its mode with just a single modification, and switching from boat mode to car mode requires no modification at all.
 
 
 
-## 2️⃣ Components List
+## 3️⃣ Components List
 | Component | Specification | Purpose |
 |-----------|---------------|---------|
 | ATmega328P | 8-bit MCU | Main processing unit |
@@ -27,7 +27,7 @@ The **3-in-1 Drone** is designed not only for fun but also as a **learning platf
 | Coreless Motors | 48,000 RPM | Drone propulsion |
 | Li-Po Battery | 3.7V | Power supply |
 
-## 3️⃣ Possible Advancements
+## 4️⃣ Possible Advancements
 Each advancement is detailed in the [Advancements Folder](./advancements/), containing:
 - **Introduction & Use Case**
 - **Required Components**
@@ -46,7 +46,7 @@ Each advancement is detailed in the [Advancements Folder](./advancements/), cont
 
 [Refer to this playlist to see Advancement Tutorial Videos](https://www.youtube.com/playlist?list=PLTJ5CnqshtICjiJ5V5KsPY_q3sDnV09eV)
 
-## 4️⃣ Troubleshooting Guide
+## 5️⃣ Troubleshooting Guide
 **Common Issues & Fixes**
 
 - **Motors not spinning?** Check the battery and motor connections.
@@ -55,10 +55,10 @@ Each advancement is detailed in the [Advancements Folder](./advancements/), cont
 
 *(For in-depth troubleshooting, visit the relevant advancement folder.)*
 
-## 5️⃣ Contribution Guidelines
+## 6️⃣ Contribution Guidelines
 Want to enhance the 3-in-1 Drone further? Check the **[Contribution Guidelines](CONTRIBUTING.md)** for how to contribute.
 
-## 6️⃣ License
+## 7️⃣ License
 This project is open-source under the **[MIT License](LICENSE)**.
 
 
