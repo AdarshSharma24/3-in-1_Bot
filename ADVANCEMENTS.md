@@ -3,7 +3,7 @@
 The **3-in-1 Drone** is designed not only for fun but also as a **learning platform** where users can experiment with various enhancements. This section provides detailed insights into possible advancements, guiding users on how to upgrade and modify their drone for a more engaging experience.
 
 ## 1️⃣ PCB Design & Hardware Details
-*(Schematics & PCB layout placeholders will be added here.)*
+*([PCB layout](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/PCB_layout.jpg) & [3D view of pcb](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/3D_view))*
 
 - **Expansion Options:** The PCB includes extra **GPIO pins**, allowing users to integrate additional components such as **GPS modules, temperature sensors, IR sensors, and more**.
 - **Power Management:** The circuit is designed for **efficient power distribution**, ensuring stable operation across all three modes.
