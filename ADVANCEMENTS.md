@@ -3,14 +3,14 @@
 The **3-in-1 Drone** is designed not only for fun but also as a **learning platform** where users can experiment with various enhancements. This section provides detailed insights into possible advancements, guiding users on how to upgrade and modify their drone for a more engaging experience.
 
 ## 1️⃣ PCB Design & Hardware Details
-*([PCB layout](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/PCB_layout.jpg) & [3D view of pcb](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/3D_view.jpg))*
+*([PCB layout](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/advancements/Reference_Images/PCB_layout.jpg) & [3D view of pcb](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/advancements/Reference_Images/3D_view.jpg))*
 
 - **Expansion Options:** The PCB includes extra **GPIO pins**, allowing users to integrate additional components such as **GPS modules, temperature sensors, IR sensors, and more**.
 - **Power Management:** The circuit is designed for **efficient power distribution**, ensuring stable operation across all three modes.
 - **Motor Control System:** The **SI2302 MOSFET-based** motor drivers regulate speed and thrust effectively.
 
 ## 2️⃣ 3D MODEL & CAD DESIGN
-*([View 3D model](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/3D_model.png))*
+*([View 3D model](https://github.com/AdarshSharma24/3-in-1_Bot/tree/main/advancements/Reference_Images/3D_model.png))*
 - **Mass Distribution:** The mass is distributed in such a way that the center of mass lies at the center to maintain mass symmetry, even though the structure is not geometrically symmetric along all axes.
 - **Mode Change System:** The toy is designed in such a way that it can change its mode with just a single modification, and switching from boat mode to car mode requires no modification at all.
 
