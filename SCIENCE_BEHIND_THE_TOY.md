@@ -8,6 +8,8 @@ Every action your toy performs — from takeoff to turning — is an example of 
 
 Let’s break down the science behind each mode in detail, starting from the fundamentals and then moving toward advanced science.
 
+ [Refer to this playlist to learn the basic concepts of science utilized in the functioning of the toy](https://www.youtube.com/playlist?list=PLTJ5CnqshtICHtiyqywuteb9mMofDSvrk)
+ 
 ---
 
 ## ⚙️ SECTION 1: The Basics of Motion
