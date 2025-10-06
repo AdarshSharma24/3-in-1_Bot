@@ -37,6 +37,8 @@ Each advancement is detailed in the [Advancements Folder](./advancements/), cont
 | Automated Mode Switching | Software-based transitions between modes | [ModeSwitch](./advancements/ModeSwitch) |
 | Gesture Control | Implement MPU6050-based gesture recognition | [Gesture](./advancements/Gesture) |
 
+[Refer to this playlist to see Advancement Tutorial Videos](https://www.youtube.com/playlist?list=PLTJ5CnqshtICjiJ5V5KsPY_q3sDnV09eV)
+
 ## 4️⃣ Troubleshooting Guide
 **Common Issues & Fixes**
 
