@@ -1,7 +1,7 @@
 # 3-in-1 Bot: An Educational Robotics Toy
 
 ## Introduction
-Welcome to the **3-in-1 Drone** project! This innovative toy is designed to **spark curiosity** in children and beginners, making learning about **electronics, robotics, and sustainability** both fun and engaging. It provides an interactive way for users to explore **STEM (Science, Technology, Engineering, and Mathematics)** concepts while enjoying a **safe and exciting** play experience.
+Welcome to the **3-in-1 Bot** project! This innovative toy is designed to **spark curiosity** in children and beginners, making learning about **electronics, robotics, and sustainability** both fun and engaging. It provides an interactive way for users to explore **STEM (Science, Technology, Engineering, and Mathematics)** concepts while enjoying a **safe and exciting** play experience.
 
 This drone isn't just for flying—it transforms into a **boat and a car**, giving children the freedom to **experiment, build, and modify** as they learn. Additionally, the **body is made from PLA, a biodegradable and environmentally friendly material**, introducing children to sustainable materials and encouraging eco-conscious learning.
 
