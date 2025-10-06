@@ -78,9 +78,13 @@ We have a growing collection of **Video Tutorials** that visually explain:
 - How the toy works  
 - How to assemble it  
 - How to modify or upgrade it  
-- How each scientific concept comes alive in motion  
+- How each scientific concept comes alive in motion
 
-Stay tuned for links to these videos soon!
+    [Refer to this playlist to learn the basic concepts of science utilized in the functioning of the toy](https://www.youtube.com/playlist?list=PLTJ5CnqshtICHtiyqywuteb9mMofDSvrk)
+
+    [Refer to this playlist to learn how to upgrade this toy to make it more feature-rich](https://www.youtube.com/playlist?list=PLTJ5CnqshtICjiJ5V5KsPY_q3sDnV09eV)
+
+Stay tuned for more videos!
 
 ---
 
