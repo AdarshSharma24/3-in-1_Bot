@@ -1,4 +1,4 @@
-# 3-in-1 Drone: An Educational Robotics Toy
+# 3-in-1 Bot: An Educational Robotics Toy
 
 ## Introduction
 Welcome to the **3-in-1 Drone** project! This innovative toy is designed to **spark curiosity** in children and beginners, making learning about **electronics, robotics, and sustainability** both fun and engaging. It provides an interactive way for users to explore **STEM (Science, Technology, Engineering, and Mathematics)** concepts while enjoying a **safe and exciting** play experience.
